@@ -10,3 +10,22 @@ A simple web app built with **HTML**, **CSS**, and **JavaScript** that generates
 - Instant output using QRCode API   
 
 ---
+
+## 🛠️ Tech Stack
+
+- **HTML** – Page structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Logic and API integration  
+- **QRCode API** – To generate QR images
+
+---
+
+## 🔍 Preview
+
+
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
