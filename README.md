@@ -20,9 +20,10 @@ A simple web app built with **HTML**, **CSS**, and **JavaScript** that generates
 
 ---
 
-## 🔍 Preview
+## 🌐 API Info
 
-
+This app uses the free **QRCode API** from:  
+🔗 https://goqr.me/api/
 
 ---
 
